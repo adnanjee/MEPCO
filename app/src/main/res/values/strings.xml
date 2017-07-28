@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Electricity Bill</string>
+    <string name="title_activity_display_bill">DisplayBill</string>
+</resources>
